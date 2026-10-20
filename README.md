@@ -1,4 +1,4 @@
-# 100 exercicis progressius de POO amb JavaScript i TypeScript — 2DAW
+# Exercicis progressius de POO amb JavaScript i TypeScript
 
 ## Indicacions generals
 
